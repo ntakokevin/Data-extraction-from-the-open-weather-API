@@ -16,3 +16,5 @@ In this exercise, you will extract weather data about several cities and save it
  'limbe', 'Cape town'```
  
  Please use the API documentation to get the base-url and all required parameters for making calls to the API.
+ 
+ You have to extract de city.list.json file from the city.list.rar file.
