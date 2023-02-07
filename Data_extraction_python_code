@@ -1,6 +1,4 @@
-# 0owR71Mml_BDA_Assignment_1_PART_1
-
-# # Assignment-1-part-1: data extraction from the open-weather API
+# Data extraction from the open-weather API
 # In this exercise, you will extract weather data about several cities and save it to a CSV file. We need the following weather information for each city:
 # - *city_name.* 
 # - *country.* Name of country where city is.
