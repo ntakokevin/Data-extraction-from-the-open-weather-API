@@ -12,7 +12,7 @@ In this exercise, you will extract weather data about several cities and save it
  
  Please use the description above as column names in your dataframe. For further explanattion of the output, see screenshot below.
  
- Please retrieve and get data for the following cities: ```'LiLongwe', 'KIGali', 'Blantyre', 'Lusaka', 'Tokyo', 'Yaoundé', 'Zomba', 'Mzuzu', 'New York', 
+ Please retrieve and get data for the following cities: ```'LiLongwe', 'KIGali', 'Blantyre', 'Lusaka', 'Tokyo', 'Yaounde', 'Zomba', 'Mzuzu', 'New York', 
  'limbe', 'Cape town'```
  
  Please use the API documentation to get the base-url and all required parameters for making calls to the API.
